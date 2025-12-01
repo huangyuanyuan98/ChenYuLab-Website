@@ -1,0 +1,213 @@
+export default [
+  {
+    id: 1,
+    category: 'researchAssistant',
+    enName: "Zichao Wu",
+    zhName: "吴子超",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "zc.wu@siat.ac.cn",
+    image: "/images/members-photos/吴子超.jpg",
+    joinDate: "2024-12-01"
+  },
+  {
+    id: 2,
+    category: 'student',
+    enName: "Jingyu Yang",
+    zhName: "杨晶宇",
+    role: "PhD student (ECUST)",
+    zhRole: '博士研究生(华东理工大学)',
+    email: "jy.yang2@siat.ac.cn",
+    image: "/images/members-photos/杨晶宇.jpg",
+    joinDate: "2024-09-03"
+  },
+  {
+    id: 3,
+    category: 'student',
+    enName: "Yilan Xie",
+    zhName: "谢怡兰",
+    role: "Master student (UCAS)",
+    zhRole: '硕士研究生(中国科学院大学)',
+    email: "yl.xie3@siat.ac.cn",
+    image: "/images/members-photos/谢怡兰.jpg",
+    joinDate: "2024-09-02"
+  },
+  {
+    id: 4,
+    category: 'student',
+    enName: "Jiazi Peng",
+    zhName: "彭佳姿",
+    role: "Master student (SUSTech)",
+    zhRole: '硕士研究生(南方科技大学)',
+    email: "jz.peng@siat.ac.cn",
+    image: "/images/members-photos/彭佳姿.jpg",
+    joinDate: "2024-09-01"
+  },
+  {
+    id: 5,
+    category: 'student',
+    enName: "Yuhang Li",
+    zhName: "李渝航",
+    role: "PhD student (NJU)",
+    zhRole: '博士研究生(南京大学)',
+    email: "yh.li13@siat.ac.cn",
+    image: "/images/members-photos/李渝航.jpg",
+    joinDate: "2025-09-02"
+  },
+  {
+    id: 6,
+    category: 'student',
+    enName: "Yupeng Liao",
+    zhName: "廖渝鹏",
+    role: "Master student (ECUST)",
+    zhRole: '硕士研究生(华东理工大学)',
+    email: "yp.liao@siat.ac.cn",
+    image: "/images/members-photos/廖渝鹏.jpg",
+    joinDate: "2024-07-02"
+  },
+  {
+    id: 7,
+    category: 'researchAssistant',
+    enName: "Yuanyuan Huang",
+    zhName: "黄媛媛",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "yy.huang6@siat.ac.cn",
+    image: "/images/members-photos/黄媛媛.jpg",
+    joinDate: "2024-06-02"
+  },
+  {
+    id: 8,
+    category: 'researchAssistant',
+    enName: "Yulong Deng",
+    zhName: "邓育珑",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "yl.deng2@siat.ac.cn",
+    image: "/images/members-photos/邓育珑.jpg",
+    joinDate: "2024-06-01"
+  },
+  {
+    id: 9,
+    category: 'student',
+    enName: "Longtao Li",
+    zhName: "李龙涛",
+    role: "PhD student (ECUST)",
+    zhRole: '博士研究生(华东理工大学)',
+    email: "lt.li2@siat.ac.cn",
+    image: "/images/members-photos/李龙涛.jpg",
+    joinDate: "2025-09-03"
+  },
+  {
+    id: 10,
+    category: 'researchAssistant',
+    enName: "Yu Huang",
+    zhName: "黄煜",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "yu.huang2@siat.ac.cn",
+    image: "/images/members-photos/黄煜.jpg",
+    joinDate: "2024-05-01"
+  },
+  {
+    id: 11,
+    category: 'researchAssistant',
+    enName: "Jiawei Huang",
+    zhName: "黄家蔚",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "jw.huang3@siat.ac.cn",
+    image: "/images/members-photos/黄家蔚.jpg",
+    joinDate: "2024-03-01"
+  },
+  {
+    id: 12,
+    category: 'student',
+    enName: "Weihang Dong",
+    zhName: "董伟航",
+    role: "Master student (SYUCT)",
+    zhRole: '硕士研究生(沈阳化工大学)',
+    email: "wh.dong@siat.ac.cn",
+    image: "/images/members-photos/董伟航.jpg",
+    joinDate: "2024-07-01"
+  },
+  {
+    id: 13,
+    category: 'student',
+    enName: "Yongzhu Li",
+    zhName: "李永珠",
+    role: "Master student (UCAS)",
+    zhRole: '硕士研究生(中国科学院大学)',
+    email: "yz.li4@siat.ac.cn",
+    image: "/images/members-photos/李永珠.jpg",
+    joinDate: "2023-09-01"
+  },
+  {
+    id: 14,
+    category: 'alumni',
+    enName: "Siyu Han",
+    zhName: "韩思宇",
+    role: "Master student (ECUST)",
+    zhRole: '硕士研究生(华东理工大学)',
+    email: "sy.han@siat.ac.cn",
+    image: "/images/members-photos/韩思宇.jpg",
+    period: "2023 - 2025",
+    joinDate: "2023-01-01"
+  },
+  {
+    id: 15,
+    category: 'administrativeAssistant',
+    enName: "Xinru Liu",
+    zhName: "刘芯如",
+    role: "Administrative assistant",
+    zhRole: '行政助理',
+    email: "xr.liu@siat.ac.cn",
+    image: "/images/members-photos/刘芯如.jpg",
+    joinDate: "2023-01-01"
+  },
+  {
+    id: 16,
+    category: 'postdoc',
+    enName: "Shichao Ren",
+    zhName: "任师超",
+    role: "Postdoctoral researcher",
+    zhRole: '博士后',
+    email: "sc.ren@siat.ac.cn",
+    image: "/images/members-photos/任师超.jpg",
+    joinDate: "2025-05-01"
+  },
+  {
+    id: 17,
+    category: 'alumni',
+    enName: "Zhihao Liu",
+    zhName: "刘志豪",
+    role: "PhD student (ECUST)",
+    zhRole: '博士研究生(华东理工大学)',
+    email: "",
+    image: "",
+    period: "2023 - 2024",
+    joinDate: "2023-09-01"
+  },
+  {
+    id: 18,
+    category: 'student',
+    enName: "Xin'an Huang",
+    zhName: "黄心安",
+    role: "Master student (SUSTech)",
+    zhRole: '硕士研究生(南方科技大学)',
+    email: "xa.huang@siat.ac.cn",
+    image: "/images/members-photos/黄心安.jpg",
+    joinDate: "2025-08-31"
+  },
+  {
+    id: 19,
+    category: 'student',
+    enName: "Xinyuan Guan",
+    zhName: "关心圆",
+    role: "Master student (UCAS)",
+    zhRole: '硕士研究生(中国科学院大学)',
+    email: "xy.guan@siat.ac.cn",
+    image: "/images/members-photos/关心圆.jpg",
+    joinDate: "2025-09-01"
+  }
+]
