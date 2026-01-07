@@ -5,6 +5,7 @@
       <button @click="scrollToYear('all')" :class="{active: activeYear === 'all'}">
         {{ currentLanguage === 'zh' ? '全部' : 'ALL' }}
       </button>
+      <button @click="scrollToYear('2026')" :class="{active: activeYear === '2026'}">2026</button>
       <button @click="scrollToYear('2025')" :class="{active: activeYear === '2025'}">2025</button>
       <button @click="scrollToYear('2024')" :class="{active: activeYear === '2024'}">2024</button>
       <button @click="scrollToYear('2023')" :class="{active: activeYear === '2023'}">2023</button>
