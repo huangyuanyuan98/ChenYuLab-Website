@@ -28,7 +28,7 @@ body {
 <template>
   <div class="pdf-container">
     <iframe
-      src="/data/resume_20250920.pdf#toolbar=0&navpanes=0"
+      src="/data/resume_20260107.pdf#toolbar=0&navpanes=0"
       width="100%"
       height="100%"
       frameborder="0"
