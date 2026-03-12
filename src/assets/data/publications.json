@@ -2,7 +2,19 @@
   {
       "id": 43,
       "year": 2026,
-      "month": 1,
+      "month": 11,
+      "yearLabel": "2026",
+      "type": "commentary",
+      "title": "Toward unbiased objective functions in constraint-based modeling",
+      "authors": "<strong>Dong W.</strong>, Nielsen J., Li H.*, Li F.*, <strong>Chen Y.*</strong>",
+      "journal": "Trends in Biotechnology",
+      "doi": "10.1016/j.tibtech.2026.01.004",
+      "pdf": ""
+  },
+  {
+      "id": 43,
+      "year": 2026,
+      "month": 6,
       "yearLabel": "2026",
       "type": "journal",
       "title": "Mechanistic and applied study of phosphofructokinases, the “gatekeeper” of the glycolytic pathway on the central carbon metabolism",
@@ -37,9 +49,9 @@
   },
   {
     "id": 40,
-    "year": 2025,
-    "month": 11,
-    "yearLabel": "2025",
+    "year": 2026,
+    "month": 1,
+    "yearLabel": "2026",
     "type": "journal",
     "title": "GotEnzymes2: expanding coverage of enzyme kinetics and thermal properties",
     "authors": "Lyu B.#, Wu K.#, <strong>Huang Y.</strong>, Anton M., Li X., Viknander S., Anwer D., Yang Y., Lu D., Kerkhoven E.J., Zelezniak A., Gao D.*, <strong>Chen Y.</strong>*, Li F.*",
