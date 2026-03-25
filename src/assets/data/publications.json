@@ -1,8 +1,20 @@
 [ 
   {
-      "id": 43,
+      "id": 45,
       "year": 2026,
-      "month": 11,
+      "month": 3,
+      "yearLabel": "2026",
+      "type": "review",
+      "title": "Genome-scale modeling for rational design of microbial cells and cocultures",
+      "authors": "<strong>Peng J.#</strong>, <strong>Ren S.#</strong>, <strong>Han S.</strong>, <strong>Chen Y.*</strong>",
+      "journal": "Trends in Biotechnology",
+      "doi": "10.1016/j.tibtech.2026.02.007",
+      "pdf": ""
+  },
+  {
+      "id": 44,
+      "year": 2026,
+      "month": 3,
       "yearLabel": "2026",
       "type": "commentary",
       "title": "Toward unbiased objective functions in constraint-based modeling",
@@ -14,7 +26,7 @@
   {
       "id": 43,
       "year": 2026,
-      "month": 6,
+      "month": 1,
       "yearLabel": "2026",
       "type": "journal",
       "title": "Mechanistic and applied study of phosphofructokinases, the “gatekeeper” of the glycolytic pathway on the central carbon metabolism",
