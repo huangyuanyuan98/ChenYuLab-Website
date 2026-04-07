@@ -1,13 +1,25 @@
 [ 
   {
+      "id": 46,
+      "year": 2026,
+      "month": 4,
+      "yearLabel": "2026",
+      "type": "journal",
+      "title": "Systematically exploring yeast metabolism through retrobiosynthesis and deep learning",
+      "authors": "Wu K.#, Liu H.#, Zhou Y.#, Sun M., Mao R., Jiang Y., Kerkhoven E.J., <strong>Chen Y.</strong>, Nielsen J., Tang H.*, Li F.*",
+      "journal": "Nat Catal",
+      "doi": "10.1038/s41929-026-01523-w",
+      "pdf": ""
+  },
+  {
       "id": 45,
       "year": 2026,
       "month": 3,
       "yearLabel": "2026",
       "type": "review",
       "title": "Genome-scale modeling for rational design of microbial cells and cocultures",
-      "authors": "<strong>Peng J.#</strong>, <strong>Ren S.#</strong>, <strong>Han S.</strong>, <strong>Chen Y.*</strong>",
-      "journal": "Trends in Biotechnology",
+      "authors": "<strong>Peng J.</strong>#, <strong>Ren S.</strong>#, <strong>Han S.</strong>, <strong>Chen Y.</strong>*",
+      "journal": "Trends Biotechnol",
       "doi": "10.1016/j.tibtech.2026.02.007",
       "pdf": ""
   },
@@ -18,8 +30,8 @@
       "yearLabel": "2026",
       "type": "commentary",
       "title": "Toward unbiased objective functions in constraint-based modeling",
-      "authors": "<strong>Dong W.</strong>, Nielsen J., Li H.*, Li F.*, <strong>Chen Y.*</strong>",
-      "journal": "Trends in Biotechnology",
+      "authors": "<strong>Dong W.</strong>, Nielsen J., Li H.*, Li F.*, <strong>Chen Y.</strong>*",
+      "journal": "Trends Biotechnol",
       "doi": "10.1016/j.tibtech.2026.01.004",
       "pdf": ""
   },
