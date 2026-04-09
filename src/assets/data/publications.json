@@ -1,5 +1,17 @@
 [ 
   {
+      "id": 47,
+      "year": 2026,
+      "month": 4,
+      "yearLabel": "2026",
+      "type": "journal",
+      "title": "Reconstruction of human metabolic models with large language models",
+      "authors": "Luo J.#, Wang H.#, Moyer D., Guo Z., Robinson J.L., Gustafsson J., Anton M., <strong>Chen Y.</strong>, Kerkhoven E.J., Nielsen J.*, Li F.*",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2516511123",
+      "pdf": ""
+  },
+  {
       "id": 46,
       "year": 2026,
       "month": 4,
