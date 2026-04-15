@@ -1,6 +1,16 @@
 // src/assets/data/labPhotos.js
 export default [
   {
+    year: 2026,
+    photos: [
+      {
+          thumbnail: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
+          fullSize: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
+          description: "2026 - Master's Thesis Defense"
+      }
+    ]
+  },
+  {
     year: 2025,
     photos: [
       {
@@ -21,12 +31,12 @@ export default [
       {
           thumbnail: "/images/lab-photos/2025/2025-毕业生与陈老师合照.jpg",
           fullSize: "/images/lab-photos/2025/2025-毕业生与陈老师合照.jpg",
-          description: "2025 - Graduates Group Photo"
+          description: "2025 - Graduation photo"
       },
       {
         thumbnail: "/images/lab-photos/2025/2025-毕业生合照.jpg",
         fullSize: "/images/lab-photos/2025/2025-毕业生合照.jpg",
-        description: "2025 - Graduates Group Photo"
+        description: "2025 - Graduation photo"
       },
       {
           thumbnail: "/images/lab-photos/2025/2025-SIAT2025年健步走活动3.jpg",
