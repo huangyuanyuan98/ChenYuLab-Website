@@ -1,5 +1,17 @@
 [ 
   {
+    "id": 48,
+    "year": 2026,
+    "month": 4,
+    "yearLabel": "2026",
+    "type": "journal",
+    "title": "Leveraging large language models for metabolic engineering design",
+    "authors": "Li X.#, Guo Z.#, Li Y., Liang Z., Liu Z., Wu K., Luo J., Zhang Y., Liu L., Sun M., <strong>Huang Y.</strong>, <strong>Chen Y.</strong>, Yu T., Nielsen J., Tang H.*, Li F.*",
+    "journal": "Trends Biotechnol",
+    "doi": "10.1016/j.tibtech.2026.03.026",
+    "published_online": "2026-04-23"
+  },
+  {
     "id": 47,
     "year": 2026,
     "month": 4,
