@@ -7,7 +7,17 @@ export default [
           thumbnail: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
           fullSize: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
           description: "2026 - Master's Thesis Defense"
-      }
+      },
+      {
+          thumbnail: "/images/lab-photos/2026/2026-SIAT2026年健步走活动1.jpg",
+          fullSize: "/images/lab-photos/2026/2026-SIAT2026年健步走活动1.jpg",
+          description: "2026 - SIAT Walking Event"
+      },
+      {
+          thumbnail: "/images/lab-photos/2026/2026-SIAT2026年健步走活动2.jpg",
+          fullSize: "/images/lab-photos/2026/2026-SIAT2026年健步走活动2.jpg",
+          description: "2026 - SIAT Walking Event"
+      }            
     ]
   },
   {
