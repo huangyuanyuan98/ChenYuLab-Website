@@ -1,5 +1,17 @@
 [ 
   {
+    "id": 49,
+    "year": 2026,
+    "month": 5,
+    "yearLabel": "2026",
+    "type": "review",
+    "title": "Driving biological insight from genome-scale and multi-scale to whole-cell modeling",
+    "authors": "<strong>Li Y.</strong>, Nielsen J.*, Li F.*, <strong>Chen Y.</strong>*",
+    "journal": "Curr Opin Syst Biol",
+    "doi": "10.1016/j.coisb.2026.100596",
+    "published_online": "2026-05-25"
+  },
+  {
     "id": 48,
     "year": 2026,
     "month": 4,
