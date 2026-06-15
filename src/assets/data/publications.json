@@ -1,5 +1,17 @@
 [ 
   {
+    "id": 50,
+    "year": 2026,
+    "month": 6,
+    "yearLabel": "2026",
+    "type": "journal",
+    "title": "Energy-translation coupling limits anaerobic yeast growth",
+    "authors": "Wang Yongbo#, Huang Y.#, Liu Y., Chen L., Yu X., Shao Z., <strong>Chen Y.</strong>, Li F., Qiu S., Wang Yong, Zhuang Y., Wang G.*",
+    "journal": "Nat Commun",
+    "doi": "10.1038/s41467-026-74197-4",
+    "published_online": "2026-06-12"
+  },
+  {
     "id": 49,
     "year": 2026,
     "month": 5,
