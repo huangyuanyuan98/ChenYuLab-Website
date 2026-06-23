@@ -57,12 +57,18 @@ const groupedMembers = computed(() => {
       .sort((a, b) => new Date(b.joinDate) - new Date(a.joinDate));
   };
 
+  const sortAlumni = () => {
+    return members.value
+      .filter(member => member.category === 'alumni')
+      .sort((a, b) => new Date(b.leaveDate) - new Date(a.leaveDate));
+  };
+
   return {
     postdocs: sortMembers('postdoc'),
     researchAssistants: sortMembers('researchAssistant'),
     administrativeAssistant: sortMembers('administrativeAssistant'),
     students: sortMembers('student'),
-    alumni: sortMembers('alumni')
+    alumni: sortAlumni('alumni')
   };
 });
 

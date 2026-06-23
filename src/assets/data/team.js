@@ -140,7 +140,9 @@ export default [
     zhRole: '硕士研究生(中国科学院大学)',
     email: "yz.li4@siat.ac.cn",
     image: "/images/members-photos/李永珠.jpg",
-    joinDate: "2023-09-01"
+    period: "2023 - 2026",
+    joinDate: "2023-09-01",
+    leaveDate: "2026-06-30"
   },
   {
     id: 14,
@@ -152,7 +154,8 @@ export default [
     email: "sy.han@siat.ac.cn",
     image: "/images/members-photos/韩思宇.jpg",
     period: "2023 - 2025",
-    joinDate: "2023-01-01"
+    joinDate: "2023-01-01",
+    leaveDate: "2025-06-30"
   },
   {
     id: 15,
@@ -186,7 +189,8 @@ export default [
     email: "",
     image: "",
     period: "2023 - 2024",
-    joinDate: "2023-09-01"
+    joinDate: "2023-09-01",
+    leaveDate: "2024-06-30"
   },
   {
     id: 18,
