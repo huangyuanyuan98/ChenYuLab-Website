@@ -4,6 +4,21 @@ export default [
     year: 2026,
     photos: [
       {
+          thumbnail: "/images/lab-photos/2026/2026-毕业生合照1.jpg",
+          fullSize: "/images/lab-photos/2026/2026-毕业生合照1.jpg",
+          description: "2026 - Graduation photo"
+      },
+      {
+          thumbnail: "/images/lab-photos/2026/2026-毕业生合照2.jpg",
+          fullSize: "/images/lab-photos/2026/2026-毕业生合照2.jpg",
+          description: "2026 - Graduation photo"
+      },
+      {
+          thumbnail: "/images/lab-photos/2026/2026-06聚餐.jpg",
+          fullSize: "/images/lab-photos/2026/2026-06聚餐.jpg",
+          description: "2026 - Lab Gathering"
+      },
+      {
           thumbnail: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
           fullSize: "/images/lab-photos/2026/2026-硕士学位论文答辩.jpg",
           description: "2026 - Master's Thesis Defense"
