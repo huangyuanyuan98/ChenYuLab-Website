@@ -108,13 +108,29 @@ const researchContent = {
         <div class="publication">
           <div class="pub-number">1.</div>
           <div class="pub-content">
+            <a :href="'https://doi.org/10.1016/j.tibtech.2026.02.007'" target="_blank">
+            <strong>Genome-scale modeling for rational design of microbial cells and cocultures.</strong></a><br>
+            <em>Trends Biotechnol</em> (2026) 
+          </div>
+        </div>
+        <div class="publication">
+          <div class="pub-number">2.</div>
+          <div class="pub-content">
+            <a :href="'https://doi.org/10.1016/j.tibtech.2026.01.004'" target="_blank">
+            <strong>Toward unbiased objective functions in constraint-based modeling.</strong></a><br>
+            <em>Trends Biotechnol</em> (2026) 
+          </div>
+        </div>
+        <div class="publication">
+          <div class="pub-number">3.</div>
+          <div class="pub-content">
             <a :href="'https://doi.org/10.1038/s41596-023-00931-7'" target="_blank">
             <strong>Reconstruction, simulation and analysis of enzyme-constrained metabolic models using GECKO Toolbox 3.0.</strong></a><br>
             <em>Nat Protoc</em> (2024) [ESI Highly Cited Paper, highlighted by Nature Reviews Genetics & Current Opinion]
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">2.</div>
+          <div class="pub-number">4.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.2114622119'" target="_blank">
             <strong>Yeast has evolved to minimize protein resource cost for synthesizing amino acids.</strong></a><br>
@@ -122,7 +138,7 @@ const researchContent = {
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">3.</div>
+          <div class="pub-number">5.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.2108391118'" target="_blank">
             <strong>In vitro turnover numbers do not reflect in vivo activities of yeast enzymes.</strong></a><br>
@@ -130,7 +146,7 @@ const researchContent = {
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">4.</div>
+          <div class="pub-number">6.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.15252/msb.202010093'" target="_blank">
             <strong>Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environments.</strong></a><br>
@@ -138,7 +154,7 @@ const researchContent = {
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">5.</div>
+          <div class="pub-number">7.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.2020154118'" target="_blank">
             <strong>Yeast optimizes metal utilization based on metabolic network and enzyme kinetics.</strong></a><br>
@@ -146,7 +162,7 @@ const researchContent = {
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">6.</div>
+          <div class="pub-number">8.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.1906569116'" target="_blank">
             <strong>Energy metabolism controls phenotypes by protein efficiency and allocation.</strong></a><br>

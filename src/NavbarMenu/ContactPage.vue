@@ -7,16 +7,16 @@
         <!-- Email -->
         <div class="contact-section">
           <h3 class="section-title">{{ currentLanguage === 'zh' ? '✉️ 邮箱' : '✉️ Email' }}</h3>
-          <p>{{ currentLanguage === 'zh' ? '陈禹教授' : 'Prof. Y. Chen' }}</p>
-          <p>{{ currentLanguage === 'zh' ? '博士生导师，课题组长' : 'PhD, PI, Professor' }}</p>
-          <p>📧 <a :href="`mailto:${email}`">{{ email }}</a></p>
+          <p>{{ currentLanguage === 'zh' ? '陈禹教授' : 'Yu Chen (y.chen3@siat.ac.cn)' }}</p>
+          <!-- <p>{{ currentLanguage === 'zh' ? '博士生导师，课题组长' : 'PhD, PI, Professor' }}</p> -->
+          <!-- <p>📧 <a :href="`mailto:${email}`">{{ email }}</a></p> -->
         </div>
 
         <!-- Address -->
         <div class="contact-section">
           <h3 class="section-title">{{ currentLanguage === 'zh' ? '📍 地址' : '📍 Address' }}</h3>
           <p>🏛️ {{ currentLanguage === 'zh' ? '中国科学院深圳先进技术研究院' : 'Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences' }}</p>
-          <p>{{ currentLanguage === 'zh' ? '深圳市南山区学苑大道1068号' : '1068 Xueyuan Boulevard, University Town of Shenzhen' }}</p>
+          <p>{{ currentLanguage === 'zh' ? '深圳市南山区学苑大道1068号' : '1068 Xueyuan Avenue, Shenzhen, China' }}</p>
           <p>{{ currentLanguage === 'zh' ? '邮编：518055' : 'Postal Code: 518055' }}</p>
         </div>
 
@@ -44,8 +44,8 @@
         <div class="research-areas">
           <h3>{{ currentLanguage === 'zh' ? '我们正在招募以下方向的优秀研究人员' : 'We are looking for motivated researchers in:' }}</h3>
           <ul>
-            <li><p>{{ currentLanguage === 'zh' ? '计算生物学' : 'Computational Biology' }}</p></li>
-            <li><p>{{ currentLanguage === 'zh' ? '微生物工程' : 'Microbial Engineering' }}</p></li>
+            <li><p>{{ currentLanguage === 'zh' ? '系统生物学' : 'Systems Biology' }}</p></li>
+            <!-- <li><p>{{ currentLanguage === 'zh' ? '微生物工程' : 'Microbial Engineering' }}</p></li> -->
             <li><p>{{ currentLanguage === 'zh' ? '合成生物学' : 'Synthetic Biology' }}</p></li>
           </ul>
 
@@ -77,14 +77,6 @@
                 (currentLanguage === 'zh' ? '查看详情' : 'View Details') }}
             </button>
           </div>
-        </div>
-
-        <div class="application">
-          <h3>{{ currentLanguage === 'zh' ? '申请方式' : 'How to Apply' }}</h3>
-          <p>{{ currentLanguage === 'zh' ? '请将简历发送至：' : 'Send your application to:' }}</p>
-          <a href="mailto:y.chen3@siat.ac.cn" class="email-link">y.chen3@siat.ac.cn</a>
-          <p v-if="currentLanguage === 'zh'">邮件标题注明："应聘岗位-学校名称-专业-姓名"</p>
-          <p v-else>Email title format: "Position-University-Major-Name"</p>
         </div>
       </div>
     </div>
