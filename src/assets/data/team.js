@@ -120,17 +120,17 @@ export default [
     image: "/images/members-photos/黄家蔚.jpg",
     joinDate: "2024-03-01"
   },
-  // {
-  //   id: 12,
-  //   category: 'student',
-  //   enName: "Weihang Dong",
-  //   zhName: "董伟航",
-  //   role: "Master's student (SYUCT)",
-  //   zhRole: '硕士研究生(沈阳化工大学)',
-  //   email: "wh.dong@siat.ac.cn",
-  //   image: "/images/members-photos/董伟航.jpg",
-  //   joinDate: "2024-07-01"
-  // },
+  {
+    id: 12,
+    category: 'researchAssistant',
+    enName: "Weihang Dong",
+    zhName: "董伟航",
+    role: "Research assistant",
+    zhRole: '研究助理',
+    email: "wh.dong@siat.ac.cn",
+    image: "/images/members-photos/董伟航.jpg",
+    joinDate: "2026-08-01"
+  },
   {
     id: 13,
     category: 'alumni',
