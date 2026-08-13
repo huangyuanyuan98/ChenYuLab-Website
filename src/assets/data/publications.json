@@ -1,4 +1,16 @@
-[ 
+[
+  {
+    "id": 51,
+    "year": 2026,
+    "month": 8,
+    "yearLabel": "2026",
+    "type": "journal",
+    "title": "A benchmarking framework for single-cell genome-scale metabolic model construction",
+    "authors": "<strong>Yang J.</strong>, <strong>Deng Y.</strong>, Luo J., Wang Y., Li F., <strong>Chen Y.</strong>*",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.08.02.742346",
+    "published_online": "2026-08-07"
+  }, 
   {
     "id": 50,
     "year": 2026,
