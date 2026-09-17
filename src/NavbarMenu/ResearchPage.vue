@@ -103,7 +103,7 @@ const researchContent = {
 
   <div class="publication-grants">
     <div class="key-publication-section">
-      <h2 class="section-title">Key Publications</h2>
+      <h2 class="section-title">Selected Publications</h2>
       <div class="publications">
         <div class="publication">
           <div class="pub-number">1.</div>
@@ -148,21 +148,13 @@ const researchContent = {
         <div class="publication">
           <div class="pub-number">6.</div>
           <div class="pub-content">
-            <a :href="'https://doi.org/10.15252/msb.202010093'" target="_blank">
-            <strong>Proteome constraints reveal targets for improving microbial fitness in nutrient-rich environments.</strong></a><br>
-            <em>Mol Syst Biol</em> (2021)
-          </div>
-        </div>
-        <div class="publication">
-          <div class="pub-number">7.</div>
-          <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.2020154118'" target="_blank">
             <strong>Yeast optimizes metal utilization based on metabolic network and enzyme kinetics.</strong></a><br>
             <em>PNAS</em> (2021) [highlighted by Current Opinion, and picked up by Mirage News]
           </div>
         </div>
         <div class="publication">
-          <div class="pub-number">8.</div>
+          <div class="pub-number">7.</div>
           <div class="pub-content">
             <a :href="'https://doi.org/10.1073/pnas.1906569116'" target="_blank">
             <strong>Energy metabolism controls phenotypes by protein efficiency and allocation.</strong></a><br>
