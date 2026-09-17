@@ -213,5 +213,16 @@ export default [
     email: "xy.guan@siat.ac.cn",
     image: "/images/members-photos/关心圆.jpg",
     joinDate: "2025-09-01"
+  },
+  {
+    id: 20,
+    category: 'student',
+    enName: "Yutong Feng",
+    zhName: "丰羽桐",
+    role: "Master's student (UCAS)",
+    zhRole: '硕士研究生(中国科学院大学)',
+    email: "yt.feng@siat.ac.cn",
+    image: "/images/members-photos/丰羽桐.jpg",
+    joinDate: "2026-09-01"
   }
 ]
