@@ -4,6 +4,11 @@ export default [
     year: 2026,
     photos: [
       {
+          thumbnail: "/images/lab-photos/2026/2026-代谢工程会议-横.jpg",
+          fullSize: "/images/lab-photos/2026/2026-代谢工程会议-横.jpg",
+          description: "2026 - Metabolic Engineering Summit 2026",
+      },
+      {
           thumbnail: "/images/lab-photos/2026/2026-毕业生合照1.jpg",
           fullSize: "/images/lab-photos/2026/2026-毕业生合照1.jpg",
           description: "2026 - Graduation photo"
