@@ -1,5 +1,17 @@
 [
   {
+    "id": 52,
+    "year": 2026,
+    "month": 10,
+    "yearLabel": "2026",
+    "type": "book chapter",
+    "title": "Construction of an Enzyme-Constrained Model for Escherichia coli Using GECKO Toolbox 3.0",
+    "authors": "<strong>Huang, Y.</strong>, <strong>Peng, J.</strong>, <strong>Ren, S.</strong>, <strong>Chen Y.</strong>*",
+    "journal": "Methods in Molecular Biology",
+    "doi": "10.1007/978-1-0716-5583-2_7",
+    "published_online": "2026-10-31"
+  }, 
+  {
     "id": 51,
     "year": 2026,
     "month": 8,
