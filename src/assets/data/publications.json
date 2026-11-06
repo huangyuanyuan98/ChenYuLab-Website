@@ -4,9 +4,9 @@
     "year": 2026,
     "month": 11,
     "yearLabel": "2026",
-    "type": "review",
+    "type": "commentary",
     "title": "Digital cell factories for biomanufacturing",
-    "authors": "<strong>Chen Y.#</strong>, Li F.#, Nielsen J.",
+    "authors": "<strong>Chen Y.</strong>#*, Li F.#, Nielsen J.",
     "journal": "Nat Rev Bioeng",
     "doi": "10.1038/s44222-026-00506-7",
     "published_online": "2026-11-04"
